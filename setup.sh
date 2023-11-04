@@ -5,9 +5,14 @@
 # setting them up for the first time #
 
 ## TODO ##
+### HIGH PRIORITY ###
+## Automate the removal of netplan ##
 ## Add irqbalance automatic setup ##
 ## Add fail2ban automatic setup for ufw ##
+### MEDIUM PRIORITY ###
 ## Bypass ufw requiring input to enable (-y doesn't seem to work)
+### LOW PRIORITY ###
+##                ##
 
 # Print initialization message
 echo Now setting up your system
