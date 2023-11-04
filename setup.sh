@@ -14,7 +14,7 @@ echo Now setting up your system
 
 # Update and upgrades existing packages
 sudo apt update 
-sudo apt upgrade
+sudo apt upgrade -y
 sudo apt autoclean
 
 # Remove ifupdown2
